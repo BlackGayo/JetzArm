@@ -1,0 +1,11 @@
+Para poder usar la funcion de memoria de movimientos via bluetooth 
+se debe de cargar el archivo hex contenido en esta carpeta a un arduino UNO
+
+Una opcion es usar AVERDUDE desde windows, 
+los siguientes links son de ayuda si no ha utilizado este software.
+
+Instrucciones de instalacion:
+ttp://www.ladyada.net/learn/avr/setup-win.html
+
+Video en youtube de como usar AVRDUDE: 
+https://www.youtube.com/watch?v=fXIvfEjhg6I
